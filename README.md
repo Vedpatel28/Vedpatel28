@@ -11,9 +11,10 @@ class Desc extends SoftwareDeveloper {
   dynamic title = "Flutter Developper";
   dynamic location = "Gujarat, India";
   @override
-  List<Skills> getSkills() {    
-    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP', 'Flutter', 'Figma'];
-    return languages;   
+  getSkills() {    
+    List<Skills> languages  = [ 'C', 'C++', 'Dart', 'PHP' ];
+    List<Skills> Software  = [ 'figma', 'Adobe Premiere Pro' , 'Adobe Photoshop' ];
+    List<Skills> Tools  = [ 'Flutter' , 'Firebase' ];   
   }
 }
 ```
