@@ -23,9 +23,9 @@ class Desc extends SoftwareDeveloper {
 
 - 🔭 I'm currently working on Flutter Application Development...
 
-- 💬 Ask me about anything which confused you in DSA or FLUTTER
+- 💬 Ask me about anything which confused you in FLUTTER or UI/UX.
 
-- 📫 How to reach me **pved82802@gmail.com**
+- 📫 E-Mail In To pved82802@gmail.com
 
   ```
 
